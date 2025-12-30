@@ -1,88 +1,66 @@
-📊 Data Analysis & Advanced Pandas Portfolio
-Transforming Raw Data into Strategic Business Intelligence
-This repository showcases my expertise in the end-to-end data analysis lifecycle, with a heavy emphasis on Data Cleaning, Exploratory Data Analysis (EDA), and Feature Engineering using Python and Pandas. While many portfolios use "clean" datasets, these projects focus on solving the technical debt and structural inconsistencies found in real-world raw data.
-+2
+# 📊 Data Analysis & Advanced Pandas Portfolio
+**Transforming Raw Data into Strategic Business Intelligence**  
 
-🚀 Key Technical Highlights
+This portfolio demonstrates **end-to-end data analysis expertise**, with a strong focus on **Data Cleaning, Exploratory Data Analysis (EDA), and Feature Engineering** using Python and Pandas. Unlike typical portfolios using “clean” datasets, these projects tackle **real-world messy data** and extract actionable insights.
 
-Advanced Data Wrangling: Specialized in cleaning highly unstructured data (e.g., the Acura car sales dataset) involving nested strings, missing time-series data, and corrupted columns.
+---
 
+## 🚀 Key Highlights
 
-Business Intelligence & Metrics: Proficient in generating actionable insights through complex aggregations, multi-level GroupBy operations, and KPI derivation.
-+2
+- **Advanced Data Wrangling:**  
+  Handle highly unstructured datasets (e.g., multi-line strings, missing time-series data, corrupted columns).
 
+- **Business Intelligence & Metrics:**  
+  Generate actionable insights using complex aggregations, multi-level `GroupBy`, and KPI derivation.
 
-Feature Engineering: Experience in creating new data dimensions to enhance analysis depth and model readiness.
-+1
+- **Feature Engineering:**  
+  Create new dimensions for deeper analysis and model readiness.
 
+- **Cross-Domain Expertise:**  
+  Experience across **Ecommerce**, **Performance Marketing (Google Ads)**, **Product Sales (Nike)**, and **Academic Performance**.
 
-Cross-Domain Analysis: Hands-on experience across Ecommerce, Performance Marketing (Google Ads), Product Sales (Nike), and Academic Performance.
-+1
+---
 
-🛠 Technical Toolbox
+## 🛠 Technical Toolbox
 
-Languages: Python 3.x 
+| Category           | Tools & Technologies                        |
+|-------------------|--------------------------------------------|
+| **Languages**      | Python 3.x                                 |
+| **Libraries**      | Pandas, NumPy, Matplotlib, Seaborn        |
+| **Data Sources**   | Excel (XLS/XLSX), CSV                      |
+| **Environment**    | Jupyter Notebooks                           |
 
+---
 
-Data Stack: Pandas, NumPy, Matplotlib, Seaborn 
+## 📁 Projects & Datasets
 
+### 🚗 Car Sales: Advanced Cleaning & Dashboard
+- **Challenge:** Dataset contained multi-line strings and missing temporal data.  
+- **Solution:** Implemented parsing logic and imputation techniques.  
+- **Files:** `Car Dataset EDA.ipynb`, `car sales dashboard.pdf`, `car cleaned dataset.csv`.
 
-Data Sources: Excel (XLS/XLSX), CSV 
+### 🛒 Ecommerce & Customer Analytics
+- **Focus:** Analyze transactions, revenue patterns, and customer behavior.  
+- **Files:** `Ecommerce data set EDA.ipynb`, `CUSTOMER dataset cleaning and feature engineering.ipynb`.
 
+### 📢 Google Ads: Performance Marketing
+- **Focus:** Correlate clicks, impressions, and sales to measure ROI.  
+- **Files:** `Google ads.ipynb`, `Cleaned Google Ads Dataset.xls`.
 
-Environment: Jupyter Notebooks 
+### 👟 Nike Sales Performance
+- **Focus:** Track high-volume product performance and regional sales trends.  
+- **Files:** `Nike Dataset.ipynb`, `Nike Cleaned Dataset.xls`.
 
-📁 Repository Structure & Project Breakdown
-🚗 Car Sales: Advanced Cleaning & Dashboard
+### 🏫 Academic Performance Analysis
+- **Focus:** Identify demographic and behavioral factors affecting student outcomes.  
+- **Files:** `student_performance.ipynb`.
 
-Challenge: The uncleaned dataset (car_sales_data_original_uncleaned.xls) contained multi-line strings (e.g., "Acura\nILX") and missing "Year" values.
+---
 
+## 🎯 Professional Certifications
 
-Solution: Implemented string parsing logic to separate makes/models and used data imputation to restore temporal data for analysis.
+- **Python Essentials 1 & 2 (Cisco)**: Proficiency in industry-standard Python development practices.
 
+---
 
-Files: Car Dataset EDA.ipynb, car sales dashboard.pdf, car cleaned dataset.csv.
-
-🛒 Ecommerce & Customer Analytics
-
-Focus: Analyzing transaction patterns and identifying key revenue drivers in customer behavior.
-
-
-Files: Ecommerce data set EDA.ipynb, CUSTOMER dataset cleaning and feature engineering.ipynb.
-
-📢 Google Ads: Performance Marketing
-
-Focus: Correlating Clicks, Impressions, and Sales to evaluate campaign ROI and marketing effectiveness.
-
-
-Files: Google ads.ipynb, Cleaned Google Ads Dataset.xls.
-
-👟 Nike Sales Performance
-
-Focus: Tracking high-volume product performance and regional sales trends.
-
-
-Files: Nike Dataset.ipynb, Nike Cleaned Dataset.xls.
-
-🏫 Academic Performance Analysis
-
-Focus: Identifying demographic and behavioral factors affecting student outcomes.
-
-
-Files: student_performance.ipynb.
-
-🎯 Professional Certifications
-
-Python Essentials 1 & 2 (Cisco): Validated proficiency in industry-standard Python development practices.
-
-📬 Contact & Connect
-Uzair Hussain
-
-Role: Data Analyst | Python Specialist
-
-GitHub: helo115
-
-LinkedIn: [Link to your profile]
-
-
-“Turning messy data into clean code and actionable impact.”
+> 💡 *Turning messy data into clean, actionable insights.*
