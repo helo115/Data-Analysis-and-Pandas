@@ -54,12 +54,43 @@ This portfolio demonstrates **end-to-end data analysis expertise**, with a stron
 ### 🏫 Academic Performance Analysis
 - **Focus:** Identify demographic and behavioral factors affecting student outcomes.  
 - **Files:** `student_performance.ipynb`.
+- ## 🐼 Advanced Pandas Expertise (Hands-On)
+
+This repository strongly demonstrates **real-world Pandas usage**, not tutorial-level examples.
+
+### Pandas Skills Applied
+
+- **Data Cleaning & Preparation**
+  - Handling missing, corrupted, and inconsistent values
+  - Converting incorrect data types (strings → numeric, dates → datetime)
+  - Removing duplicates and invalid records
+  - Standardizing categorical values (brands, products, cities)
+
+- **Feature Engineering**
+  - Creating derived columns (e.g., Car Age, Total Sales, Revenue metrics)
+  - Preparing datasets for downstream analysis and visualization
+
+- **GroupBy & Aggregations**
+  - Single & multi-column `groupby`
+  - Aggregations using `sum`, `mean`, `count`, `max`, `min`
+  - Business-focused summaries (sales by city, product, customer)
+
+- **Exploratory Data Analysis (EDA)**
+  - Trend analysis across time, region, and product
+  - Identifying high-performing categories and outliers
+  - Supporting insights with visualizations
+
+- **Real-World Data Handling**
+  - Working with raw Excel & CSV files
+  - Cleaning datasets not designed for analysis
+  - Structuring data for dashboards and reporting
+
 
 ---
 
 ## 🎯 Professional Certifications
 
-- **Python Essentials 1 & 2 (Cisco)**: Proficiency in industry-standard Python development practices.
+- **Python Essentials 1 & 2 (Cisco)**: Proficiency in industry-standard Python development practices. github Link: https://github.com/helo115/Python/commit/7f3b2e37607be13adeb550989542211d0f831227
 
 ---
 
